@@ -11,6 +11,7 @@
 5.	Tương Tác Đa Người: Kết nối với bạn bè và gia đình qua mạng và trò chơi VR đa người. Cùng hợp sức trong cuộc phiêu lưu hoặc thách thức nhau trong không gian đa người.
 6.	Nhiệm Vụ và Phần Cốt Truyện: Nếu bạn thích câu chuyện và nhiệm vụ, game VR cũng cung cấp các trò chơi với cốt truyện hấp dẫn và nhiệm vụ đầy thách thức.
 7.	Tạo Nội Dung Riêng: Một số game VR cho phép bạn tạo và chia sẻ nội dung riêng, đảm bảo rằng không có giới hạn trong trí tưởng tượng của bạn.
+
 Game VR mở ra một cửa sổ đến một thế giới mới mà bạn có thể sống và trải nghiệm. Từ thế giới khoa học viễn tưởng đến thế giới thần kỳ, từ thế giới truyền thống đến các trò chơi đa dạng - VR thực sự thay đổi cách chúng ta chơi và tương tác với thế giới. Hãy sẵn sàng bước chân vào cuộc phiêu lưu không giới hạn và trải nghiệm thế giới ảo một cách chưa từng có.
 
 
