@@ -1,8 +1,8 @@
 # Game-VR
 
-Game VR (Virtual Reality) đã đánh bại cản trở giữa thế giới thực và thế giới ảo, đưa chúng ta vào một cuộc phiêu lưu hoàn toàn mới và không giới hạn. Đây không chỉ là trò chơi, mà là một trải nghiệm tương tác đắm chìm trong một thế giới ảo đầy kỳ diệu và hấp dẫn.
+•	Game VR (Virtual Reality) đã đánh bại cản trở giữa thế giới thực và thế giới ảo, đưa chúng ta vào một cuộc phiêu lưu hoàn toàn mới và không giới hạn. Đây không chỉ là trò chơi, mà là một trải nghiệm tương tác đắm chìm trong một thế giới ảo đầy kỳ diệu và hấp dẫn.
 
-Đặc Điểm Nổi Bật Của Game VR:
+•	Đặc Điểm Nổi Bật Của Game VR:
 
 1.	Đắm Chìm Tuyệt Đỉnh: Với game VR, bạn sẽ hoàn toàn đắm chìm vào thế giới ảo. Kính VR đưa bạn vào một môi trường 3D tạo hứng thú, nơi mọi thứ trở nên thực sự.
 2.	Tương Tác Sâu Sắc: Bạn có khả năng tương tác với môi trường và đối tượng ảo theo cách tự nhiên. Sử dụng tay cầm VR, bạn có thể nắm, kéo, đẩy và tương tác với mọi thứ xung quanh.
@@ -12,4 +12,5 @@ Game VR (Virtual Reality) đã đánh bại cản trở giữa thế giới th�
 6.	Nhiệm Vụ và Phần Cốt Truyện: Nếu bạn thích câu chuyện và nhiệm vụ, game VR cũng cung cấp các trò chơi với cốt truyện hấp dẫn và nhiệm vụ đầy thách thức.
 7.	Tạo Nội Dung Riêng: Một số game VR cho phép bạn tạo và chia sẻ nội dung riêng, đảm bảo rằng không có giới hạn trong trí tưởng tượng của bạn.
 Game VR mở ra một cửa sổ đến một thế giới mới mà bạn có thể sống và trải nghiệm. Từ thế giới khoa học viễn tưởng đến thế giới thần kỳ, từ thế giới truyền thống đến các trò chơi đa dạng - VR thực sự thay đổi cách chúng ta chơi và tương tác với thế giới. Hãy sẵn sàng bước chân vào cuộc phiêu lưu không giới hạn và trải nghiệm thế giới ảo một cách chưa từng có.
+
 
