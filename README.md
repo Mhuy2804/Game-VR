@@ -14,7 +14,7 @@
 
 ![alt](https://img.lovepik.com/photo/40042/6541.jpg_wh860.jpg)
 
-Game VR mở ra một cửa sổ đến một thế giới mới mà bạn có thể sống và trải nghiệm. Từ thế giới khoa học viễn tưởng đến thế giới thần kỳ, từ thế giới truyền thống đến các trò chơi đa dạng - VR thực sự thay đổi cách chúng ta chơi và tương tác với thế giới. Hãy sẵn sàng bước chân vào cuộc phiêu lưu không giới hạn và trải nghiệm thế giới ảo một cách chưa từng có.
+## Game VR mở ra một cửa sổ đến một thế giới mới mà bạn có thể sống và trải nghiệm. Từ thế giới khoa học viễn tưởng đến thế giới thần kỳ, từ thế giới truyền thống đến các trò chơi đa dạng - VR thực sự thay đổi cách chúng ta chơi và tương tác với thế giới. Hãy sẵn sàng bước chân vào cuộc phiêu lưu không giới hạn và trải nghiệm thế giới ảo một cách chưa từng có.
 
 
 
