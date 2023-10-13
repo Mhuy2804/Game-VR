@@ -1,6 +1,6 @@
 # Game-VR
 
-<h1•	Game VR (Virtual Reality) đã đánh bại cản trở giữa thế giới thực và thế giới ảo, đưa chúng ta vào một cuộc phiêu lưu hoàn toàn mới và không giới hạn. Đây không chỉ là trò chơi, mà là một trải nghiệm tương tác đắm chìm trong một thế giới ảo đầy kỳ diệu và hấp dẫn./h1>
+<title•	Game VR (Virtual Reality) đã đánh bại cản trở giữa thế giới thực và thế giới ảo, đưa chúng ta vào một cuộc phiêu lưu hoàn toàn mới và không giới hạn. Đây không chỉ là trò chơi, mà là một trải nghiệm tương tác đắm chìm trong một thế giới ảo đầy kỳ diệu và hấp dẫn.</title>
 
 •	Đặc Điểm Nổi Bật Của Game VR:
 
